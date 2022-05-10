@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 -->
 
 ## What I'm working on? 🤖
-I'm currently attending the master's practical course from Prof. Stefan Leutenegger, trying to make a drone listen to my command. I'm also trying to make my little game with `pygame`, however, bizzarely... 🎮
+I'm currently doing an internship at Intel Lab Germany in automated driving. I'm also trying to make my little game with `pygame`, however, bizzarely... 🎮
 
 ## Languages and Libraries 💻
 - Python, Pytorch, Numpy
 - C++, OpenCV, Eigen
 - HTML&CSS&JavaScript (currently learning...)
+- ROS1&2, Gazebo
+- Bash scripting
 
 ## Where do I study? 🏫
 Currently, I'm studying the third semester of my master's program of Robotics Cognition Intelligence at Technical University of Munich with a specialization in robotics and artificial intelligence. 
