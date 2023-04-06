@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## What I'm working on? 🤖
-I'm currently doing an internship at Intel Lab Germany in automated driving. I'm also trying to make my little game with `pygame`, however, bizzarely... 🎮
+I'm currently doing my master's thesis at Intel Lab Germany in robotics. I'm also trying to make my little game with `pygame`, however, bizzarely... 🎮
 
 ## Languages and Libraries 💻
 - Python, Pytorch, Numpy
