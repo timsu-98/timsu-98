@@ -1,6 +1,8 @@
 # Hi there! I'm Xiyan 👋
 I am currently pursuing my Ph.D. in autonomous driving (AD) at the Chair of Automotive Technology at Technical University of Munich (TUM). My personal research interest lies in the corner case detection/prediction of AD using world model and its further application in AD improvement. 
 
+🌐 Check out my [personal page](https://timsu-98.github.io/timsu-98/) with all my [publications](https://timsu-98.github.io/timsu-98/publications.html)!
+
 <!--
 **timsu-98/timsu-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
